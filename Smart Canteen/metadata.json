@@ -1,0 +1,5 @@
+{
+  "name": "Smart Canteen DBMS",
+  "description": "A smart pre-order system for school canteens featuring AI-generated menus, order management, and intelligent sales reporting.",
+  "requestFramePermissions": []
+}
