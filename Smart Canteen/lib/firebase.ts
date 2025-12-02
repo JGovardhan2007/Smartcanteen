@@ -8,7 +8,7 @@ import { initializeApp, getApps, getApp } from "firebase/app";
 // Integrated from your project settings
 // ------------------------------------------------------------------
 const firebaseConfig = {
-  apiKey: "AIzaSyBBVx2yohwHGdk4Q0GMUfzmHwP3qFcZiwk",
+  apiKey: "Google API",
   authDomain: "smart-canteen-e8b9e.firebaseapp.com",
   projectId: "smart-canteen-e8b9e",
   storageBucket: "smart-canteen-e8b9e.firebasestorage.app",
